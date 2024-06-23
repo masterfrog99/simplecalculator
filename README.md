@@ -1,1 +1,1 @@
-SUper simple and newbie calculator in python
+Super simple and newbie calculator in python
